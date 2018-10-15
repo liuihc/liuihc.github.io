@@ -1,3 +1,1 @@
-## Never say die
-
-Welcome
+## Hello World
