@@ -1,8 +1,10 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           date
 #relative_permalinks: true
+
+timezone:            Asia/Shanghai
 
 # Setup
 title:               Never say die
