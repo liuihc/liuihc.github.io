@@ -1,3 +1,32 @@
-theme: jekyll-theme-slate
-title: Never say die
-description: Welcome
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Never Say Die
+tagline:             The Jekyll Butler
+url:                 http://www.neversaydie.xyz
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Brandon
+  url:               http://www.neversaydie.xyz
+  email:             oo-oo@outlook.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
